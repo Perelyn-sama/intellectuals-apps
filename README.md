@@ -1,3 +1,3 @@
 # intellectuals-apps
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/intellectuals-apps)
+This really is a challenge! I'm lowkey horrible at designing.
