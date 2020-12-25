@@ -1,9 +1,17 @@
 body {
+  background-color: #21ABFF;
   font-family: Helvetica;
+  margin-top: 0;
 }
-nav{
-    background-color: #E8BE00;
-    padding: 1em;
+nav {
+  background-color: #fffb08;
+  padding: 0.2em;
+  margin-left: -1em;
+  margin-right: -.5em;
+}
+nav > ul {
+  display: flex;
+  justify-content: space-between;
 }
 .nav-link {
   list-style: none;
@@ -13,4 +21,8 @@ nav{
 .nav-link > a {
   text-decoration: none;
   color: #333;
+}
+.nav-link > a:hover {
+  font-size: 1.1em;
+  color: #21abff;
 }
