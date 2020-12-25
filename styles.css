@@ -1,5 +1,5 @@
 body {
-  background-color: #21ABFF;
+  background-color: #21abff;
   font-family: Helvetica;
   margin-top: 0;
 }
@@ -7,7 +7,7 @@ nav {
   background-color: #fffb08;
   padding: 0.2em;
   margin-left: -1em;
-  margin-right: -.5em;
+  margin-right: -0.5em;
 }
 nav > ul {
   display: flex;
@@ -25,4 +25,8 @@ nav > ul {
 .nav-link > a:hover {
   font-size: 1.1em;
   color: #21abff;
+}
+header {
+  text-align: center;
+  margin: auto;
 }
